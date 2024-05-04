@@ -28,5 +28,3 @@
 
 7. **Sonuçların Görselleştirilmesi:**
    - Model performansı ve karşılaştırmalar, grafikler veya tablolar aracılığıyla görselleştirilir.
-
-Bu kod, makine öğrenimi modeli oluşturma sürecini adım adım gerçekleştirir ve sonuçları karşılaştırarak en iyi modeli belirler.
